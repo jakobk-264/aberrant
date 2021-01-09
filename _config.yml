@@ -93,6 +93,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-scholar
 
 # See https://jekyllrb.com/docs/pagination/
 # For pagination to work, you cannot have index.md at the root of your repo, instead you must rename this file to index.html
@@ -119,3 +120,7 @@ kramdown:
 feed:
   posts_limit: 5 #default posts_limit: 10
   excerpt_only: true
+
+# citation style as in https://github.com/citation-style-language/styles/tree/737ffa150530bc69d8545c8cb1061e5a483d9cd7
+scholar:
+  style: ieee
