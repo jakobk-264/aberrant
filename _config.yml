@@ -122,5 +122,5 @@ feed:
   excerpt_only: true
 
 # citation style as in https://github.com/citation-style-language/styles/tree/737ffa150530bc69d8545c8cb1061e5a483d9cd7
-scholar:
-  style: ada
+#scholar:
+#  style: ada
