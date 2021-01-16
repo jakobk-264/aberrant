@@ -4,6 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
+I'm a model risk manager at a British bank.
+
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
 
